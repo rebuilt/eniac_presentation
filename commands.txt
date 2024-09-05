@@ -1,0 +1,5 @@
+# 1: for a plain TeX format .tex file
+pdftex my_TeX_file.tex
+
+# 2: for a LaTeX format .tex file
+pdflatex my_LaTeX_file.tex
