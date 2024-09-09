@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.13)  5 SEP 2024 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.13)  5 SEP 2024 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -789,7 +789,7 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count342
 \l__pdf_internal_box=\box80
 )
-No file presentation.aux.
+(./presentation.aux)
 \openout1 = `presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
@@ -810,6 +810,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -882,6 +883,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 55.
 LaTeX Info: Redefining \pageref on input line 55.
 LaTeX Info: Redefining \nameref on input line 55.
+
+(./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
@@ -951,9 +954,9 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-No file presentation.nav.
+) (./presentation.nav)
 LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -973,115 +976,117 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 69.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 69.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 69.
 <images//ENIAC_Women.jpg, id=21, 565.36218pt x 156.585pt>
 File: images//ENIAC_Women.jpg Graphic file (type jpg)
 <use images//ENIAC_Women.jpg>
-Package pdftex.def Info: images//ENIAC_Women.jpg  used on input line 69.
+Package pdftex.def Info: images//ENIAC_Women.jpg  used on input line 67.
 (pdftex.def)             Requested size: 364.19536pt x 100.87111pt.
  [2
 
  <./images//ENIAC_Women.jpg>]
-<images//2.jpg, id=27, 364.2408pt x 273.1806pt>
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 76.
-(pdftex.def)             Requested size: 364.19536pt x 273.15907pt.
- [3
-
- <./images//2.jpg>]
-<images//3.jpg, id=33, 321.2pt x 218.8175pt>
+<images//3.jpg, id=27, 321.2pt x 218.8175pt>
 File: images//3.jpg Graphic file (type jpg)
 <use images//3.jpg>
-Package pdftex.def Info: images//3.jpg  used on input line 86.
+Package pdftex.def Info: images//3.jpg  used on input line 74.
+(pdftex.def)             Requested size: 364.19536pt x 248.11563pt.
+ [3
+
+ <./images//3.jpg>]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 84.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 84.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 84.
+File: images//3.jpg Graphic file (type jpg)
+<use images//3.jpg>
+Package pdftex.def Info: images//3.jpg  used on input line 84.
 (pdftex.def)             Requested size: 364.19536pt x 248.11563pt.
  [4
 
- <./images//3.jpg>]
+]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <24.88> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 93.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 91.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <20.74> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 93.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 91.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <17.28> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 93.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 91.
+<images//2.jpg, id=38, 1204.5pt x 632.3625pt>
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 93.
-(pdftex.def)             Requested size: 364.19536pt x 273.15907pt.
+Package pdftex.def Info: images//2.jpg  used on input line 91.
+(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
  [5
 
-]
+ <./images//2.jpg>]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 93.
-(pdftex.def)             Requested size: 364.19536pt x 273.15907pt.
+Package pdftex.def Info: images//2.jpg  used on input line 91.
+(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
  [6
 
 ]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 93.
-(pdftex.def)             Requested size: 364.19536pt x 273.15907pt.
+Package pdftex.def Info: images//2.jpg  used on input line 91.
+(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
  [7
 
 ]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 109.
-(pdftex.def)             Requested size: 364.19536pt x 273.15907pt.
+Package pdftex.def Info: images//2.jpg  used on input line 107.
+(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
  [8
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
-29.
+27.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 1
-29.
+27.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 129.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 127.
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 129.
-(pdftex.def)             Requested size: 364.19536pt x 273.15907pt.
+Package pdftex.def Info: images//2.jpg  used on input line 127.
+(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
  [9
 
 ]
-<images//1.jpg, id=67, 1517.67pt x 1138.2525pt>
-File: images//1.jpg Graphic file (type jpg)
-<use images//1.jpg>
-Package pdftex.def Info: images//1.jpg  used on input line 136.
-(pdftex.def)             Requested size: 364.19536pt x 273.13408pt.
- [10
-
- <./images//1.jpg>]
-File: images//1.jpg Graphic file (type jpg)
-<use images//1.jpg>
-Package pdftex.def Info: images//1.jpg  used on input line 146.
-(pdftex.def)             Requested size: 72.85428pt x 54.6407pt.
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 146.
-(pdftex.def)             Requested size: 72.84686pt x 54.63515pt.
-<images//blank.jpg, id=73, 364.36125pt x 273.02pt>
-File: images//blank.jpg Graphic file (type jpg)
-<use images//blank.jpg>
-Package pdftex.def Info: images//blank.jpg  used on input line 146.
-(pdftex.def)             Requested size: 364.19536pt x 272.90685pt.
- [11
+Package pdftex.def Info: images//2.jpg  used on input line 134.
+(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+ [10
 
- <./images//blank.jpg>]
+]
+File: images//2.jpg Graphic file (type jpg)
+<use images//2.jpg>
+Package pdftex.def Info: images//2.jpg  used on input line 144.
+(pdftex.def)             Requested size: 57.82085pt x 30.35594pt.
+File: images//2.jpg Graphic file (type jpg)
+<use images//2.jpg>
+Package pdftex.def Info: images//2.jpg  used on input line 144.
+(pdftex.def)             Requested size: 240.89574pt x 126.47026pt.
+
+Overfull \vbox (21.41554pt too high) detected at line 144
+ []
+
+File: images//2.jpg Graphic file (type jpg)
+<use images//2.jpg>
+Package pdftex.def Info: images//2.jpg  used on input line 144.
+(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+[11
+
+]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
 
@@ -1092,20 +1097,14 @@ Package pdftex.def Info: images//blank.jpg  used on input line 146.
 \openout8 = `presentation.snm'.
 
  (./presentation.aux)
-
-Package rerunfilecheck Warning: File `presentation.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `presentation.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `presentation.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24915 strings out of 480247
- 495723 string characters out of 5896151
- 733066 words of memory out of 5000000
- 42316 multiletter control sequences out of 15000+600000
+ 24923 strings out of 480247
+ 495652 string characters out of 5896151
+ 733235 words of memory out of 5000000
+ 42319 multiletter control sequences out of 15000+600000
  502014 words of font info for 107 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  142i,11n,136p,393b,642s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1114,10 +1113,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/he
 lvetic/uhvr8a.pfb>
-Output written on presentation.pdf (11 pages, 836757 bytes).
+Output written on presentation.pdf (11 pages, 357384 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
  23 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
