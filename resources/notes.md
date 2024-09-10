@@ -11,11 +11,30 @@ Example of the Military-Industrial-Scientific complex
 * Temperature adjustments
 
 ## 200 Women Calulators
+Sub-professionals
 
 ## Differntial Analyzer
 Video
 Kay McNulty
 Jean Bartik
+
+## Designers
+John Mauchly and J. Presper Eckert 
+* The Use of High Speed Vacuum Tube Devices for Calculating
+* 1000 times faster than the differential Analyzer
+* General Purpose
+
+## Engineers
+* Robert F. Shaw (function tables)
+* Jeffrey Chuan Chu (divider/square-rooter)
+* Thomas Kite Sharpless (master programmer)
+* Frank Mural (master programmer)
+* Arthur Burks (multiplier)
+* Harry Huskey (reader/printer) 
+* Jack Davis (accumulators)
+
+# Penn Engineers
+1954: Women admitted to the undergraduate programs of the School of Engineering
 
 # Cost
 Original 61,000 then 500,000.  More than 7 million.
@@ -29,7 +48,22 @@ Electricity is not digital.  Vaccuum tubes have a range of operation
 ## Vaccuum tube reliability
   * Run the tubes with lower voltage  
   * Limit the amount of power cycling
-## IBM card readers/punches
+
+## Industry
+* Vaccum Tubes - Raytheon
+* IBM card readers/punches
+
+# Science
+## George Boole
+1848: George Boole. "The Calculus of Logic"
+Outlines boolean logic
+
+## Claude Shannon
+A Symbolic Analysis of Relay and Switching Circuits
+* Diagramed switching circuits that could implement the essential operators of Boolean algebra
+* He proved that his switching circuits could be used to simplify the arrangement of the electromechanical relays
+* He proved that these circuits could solve all problems that Boolean algebra could solve.
+* He presented diagrams of several circuits, including a digital 4-bit full adder.
 
 ## Decimal
 * Digits
@@ -49,20 +83,21 @@ Electricity is not digital.  Vaccuum tubes have a range of operation
 No language.  Programmed with wires and switches
 Accumulators are the only memory
 No separation between storage and computation
-parallel
-Dataflow architecture
+Parallel
 
+# Uses
 ## Hydrogen Bomb
-
-## Monte Carlo Method
+* Monte Carlo Method
+* Ballistic Calculations
+* Election Prediction
+* Aerodynamic Calculations
+* Weather prediction
 
 ## No programming manuals
-* Pair programming
 * Learn from circuit/logic/panel diagrams
+* Pair programming
 
 ## Debugging
-
-
 
 ## Artillary program
 
@@ -74,5 +109,7 @@ avoiding any attempt at improving performance by overlapping operations
 synchronous with a master system clock
 
 ENIAC combined full, Turing-complete programmability with electronic speed
+
+
 
 
