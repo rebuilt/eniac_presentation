@@ -24,6 +24,37 @@ John Mauchly and J. Presper Eckert
 * 1000 times faster than the differential Analyzer
 * General Purpose
 
+"And we took the string and band devices out of the
+integrator and put in the electric motors, gears, and photocells, and a variety of other things. (They originally had
+students down there building pointers, putting arbitrary functions into the machine and we got rid of those and put
+in devices that followed curves drawn on pieces of paper with photocell motors.) By the time we got done, I had to
+put in a couple of hundred tubes into the otherwise mechanical machine. Not only a couple of hundred tubes but 13
+amplidynes and 15 to 20 servomotors and a bunch of photocells and various other power supplies and contraptions.
+So the machine was no longer a mechanical machine
+The original machine could have been driven with a steam
+engine, it was just mechanical, you just had to turn it with a couple of motors; actually there was a motor for each
+integrator--18 motors to be exact. But it could have been 13 steam engines just as well. So, by now it really was an
+electro-mechanical device, though still analog. The improvement however was pretty exciting--the speed was about
+10 times and the accuracy about 10 times. The individual integrators were accurate to 100 to 1 percent--which is
+pretty accurate for an analog device. In fact to get beyond that, you had to air condition the room better. To go
+beyond that with analog devices, we were already grinding parts down to 50 millionths of an inch or so in integrator
+wheels. We decided it would be an error to get another factor of 10 to improve speed of accuracy, a Herculean error
+which we probably would still be at if we had chosen that road."
+
+So, the ENIAC is a peculiar machine and it's the only
+machine that we ever built that didn't have centralized programming. It had what I would call a distributed
+programming system--which I would have later called local control (which has later been called local control and
+many of the original patents are written for this principle of local control and nobody could use it much in later
+machines).
+
+So, the ENIAC is a peculiar machine and it's the only
+machine that we ever built that didn't have centralized programming. It had what I would call a distributed
+programming system--which I would have later called local control (which has later been called local control and
+many of the original patents are written for this principle of local control and nobody could use it much in later
+machines).
+
+Some TV sets had 30 tubes.
+
 ## Engineers
 * Robert F. Shaw (function tables)
 * Jeffrey Chuan Chu (divider/square-rooter)
