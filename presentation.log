@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.13)  10 SEP 2024 20:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.13)  11 SEP 2024 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1601,104 +1601,112 @@ Package pdftex.def Info: images//pedaling_sheet.jpg  used on input line 461.
  [73
 
 ]
-Overfull \vbox (4.35226pt too high) detected at line 474
- []
-
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 473.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[74
+ [74
 
 ]
-Overfull \vbox (4.35226pt too high) detected at line 474
- []
-
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 473.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[75
+ [75
 
 ]
-Overfull \vbox (4.35226pt too high) detected at line 474
- []
-
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 473.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[76
+ [76
 
 ]
-Overfull \vbox (4.35226pt too high) detected at line 474
- []
-
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 473.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[77
+ [77
 
 ]
-Overfull \vbox (4.35226pt too high) detected at line 474
+Overfull \vbox (11.27042pt too high) detected at line 484
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 484.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [78
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 487
+Overfull \vbox (11.27042pt too high) detected at line 484
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 484.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [79
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 487
+Overfull \vbox (11.27042pt too high) detected at line 484
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 484.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [80
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 487
+Overfull \vbox (34.6621pt too high) detected at line 496
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 496.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [81
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 487
+Overfull \vbox (34.6621pt too high) detected at line 496
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 496.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [82
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 487
+Overfull \vbox (34.6621pt too high) detected at line 496
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 496.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [83
+
+]
+Overfull \vbox (34.6621pt too high) detected at line 496
+ []
+
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 496.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+[84
+
+]
+Overfull \vbox (34.6621pt too high) detected at line 496
+ []
+
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 496.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+[85
 
 ]
 \tf@nav=\write6
@@ -1715,8 +1723,8 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25326 strings out of 480247
- 504693 string characters out of 5896151
+ 25330 strings out of 480247
+ 504731 string characters out of 5896151
  733235 words of memory out of 5000000
  42557 multiletter control sequences out of 15000+600000
  497627 words of font info for 100 fonts, out of 8000000 for 9000
@@ -1725,10 +1733,10 @@ Here is how much of TeX's memory you used:
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on presentation.pdf (83 pages, 6973397 bytes).
+Output written on presentation.pdf (85 pages, 6974906 bytes).
 PDF statistics:
- 532 PDF objects out of 1000 (max. 8388607)
- 398 compressed objects within 4 object streams
- 167 named destinations out of 1000 (max. 500000)
+ 545 PDF objects out of 1000 (max. 8388607)
+ 408 compressed objects within 5 object streams
+ 171 named destinations out of 1000 (max. 500000)
  218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
