@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.13)  10 SEP 2024 13:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.13)  10 SEP 2024 18:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1050,7 +1050,7 @@ Package pdftex.def Info: images//firing_table_rotation.jpg  used on input line
 <images//human_computers.jpg, id=54, 475.2957pt x 385.44pt>
 File: images//human_computers.jpg Graphic file (type jpg)
 <use images//human_computers.jpg>
-Package pdftex.def Info: images//human_computers.jpg  used on input line 106.
+Package pdftex.def Info: images//human_computers.jpg  used on input line 105.
 (pdftex.def)             Requested size: 364.19536pt x 295.34879pt.
  [7
 
@@ -1059,19 +1059,19 @@ Package pdftex.def Info: images//human_computers.jpg  used on input line 106.
 File: images//DifferentialAnalyzer.jpg Graphic file (type jpg)
 <use images//DifferentialAnalyzer.jpg>
 Package pdftex.def Info: images//DifferentialAnalyzer.jpg  used on input line 1
-12.
+11.
 (pdftex.def)             Requested size: 364.19536pt x 252.58398pt.
  [8
 
  <./images//DifferentialAnalyzer.jpg>]
-Overfull \hbox (11.7282pt too wide) in paragraph at lines 119--119
+Overfull \hbox (11.7282pt too wide) in paragraph at lines 118--118
  [] 
  []
 
 File: images//DifferentialAnalyzer.jpg Graphic file (type jpg)
 <use images//DifferentialAnalyzer.jpg>
 Package pdftex.def Info: images//DifferentialAnalyzer.jpg  used on input line 1
-19.
+18.
 (pdftex.def)             Requested size: 364.19536pt x 252.58398pt.
 [9
 
@@ -1079,7 +1079,7 @@ Package pdftex.def Info: images//DifferentialAnalyzer.jpg  used on input line 1
 <images//ww2_timeline.jpg, id=72, 602.25pt x 220.825pt>
 File: images//ww2_timeline.jpg Graphic file (type jpg)
 <use images//ww2_timeline.jpg>
-Package pdftex.def Info: images//ww2_timeline.jpg  used on input line 125.
+Package pdftex.def Info: images//ww2_timeline.jpg  used on input line 124.
 (pdftex.def)             Requested size: 364.19536pt x 133.54393pt.
  [10
 
@@ -1088,21 +1088,21 @@ Package pdftex.def Info: images//ww2_timeline.jpg  used on input line 125.
 File: images//eniac_women_programmers_1.jpg Graphic file (type jpg)
 <use images//eniac_women_programmers_1.jpg>
 Package pdftex.def Info: images//eniac_women_programmers_1.jpg  used on input l
-ine 131.
+ine 130.
 (pdftex.def)             Requested size: 364.19536pt x 181.5964pt.
  [11
 
  <./images//eniac_women_programmers_1.jpg>]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 140.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 139.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 140.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 139.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 140.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 139.
 File: images//eniac_women_programmers_1.jpg Graphic file (type jpg)
 <use images//eniac_women_programmers_1.jpg>
 Package pdftex.def Info: images//eniac_women_programmers_1.jpg  used on input l
-ine 140.
+ine 139.
 (pdftex.def)             Requested size: 364.19536pt x 181.5964pt.
  [12
 
@@ -1110,7 +1110,7 @@ ine 140.
 File: images//eniac_women_programmers_1.jpg Graphic file (type jpg)
 <use images//eniac_women_programmers_1.jpg>
 Package pdftex.def Info: images//eniac_women_programmers_1.jpg  used on input l
-ine 151.
+ine 150.
 (pdftex.def)             Requested size: 364.19536pt x 181.5964pt.
  [13
 
@@ -1118,7 +1118,7 @@ ine 151.
 File: images//eniac_women_programmers_1.jpg Graphic file (type jpg)
 <use images//eniac_women_programmers_1.jpg>
 Package pdftex.def Info: images//eniac_women_programmers_1.jpg  used on input l
-ine 162.
+ine 161.
 (pdftex.def)             Requested size: 364.19536pt x 181.5964pt.
  [14
 
@@ -1127,7 +1127,7 @@ ine 162.
 File: images//vacuum_tubes_history.jpg Graphic file (type jpg)
 <use images//vacuum_tubes_history.jpg>
 Package pdftex.def Info: images//vacuum_tubes_history.jpg  used on input line 1
-68.
+67.
 (pdftex.def)             Requested size: 364.19536pt x 204.8496pt.
  [15
 
@@ -1135,7 +1135,7 @@ Package pdftex.def Info: images//vacuum_tubes_history.jpg  used on input line 1
 File: images//vacuum_tubes_history.jpg Graphic file (type jpg)
 <use images//vacuum_tubes_history.jpg>
 Package pdftex.def Info: images//vacuum_tubes_history.jpg  used on input line 1
-79.
+78.
 (pdftex.def)             Requested size: 364.19536pt x 204.8496pt.
  [16
 
@@ -1143,456 +1143,491 @@ Package pdftex.def Info: images//vacuum_tubes_history.jpg  used on input line 1
 <images//first_four.jpg, id=111, 608.2725pt x 481.8pt>
 File: images//first_four.jpg Graphic file (type jpg)
 <use images//first_four.jpg>
-Package pdftex.def Info: images//first_four.jpg  used on input line 185.
+Package pdftex.def Info: images//first_four.jpg  used on input line 184.
 (pdftex.def)             Requested size: 364.19536pt x 288.47939pt.
  [17
 
  <./images//first_four.jpg>]
 File: images//first_four.jpg Graphic file (type jpg)
 <use images//first_four.jpg>
-Package pdftex.def Info: images//first_four.jpg  used on input line 192.
+Package pdftex.def Info: images//first_four.jpg  used on input line 191.
 (pdftex.def)             Requested size: 364.19536pt x 288.47939pt.
  [18
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <24.88> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 203.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 202.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <20.74> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 203.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 202.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <17.28> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 203.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 202.
 File: images//first_four.jpg Graphic file (type jpg)
 <use images//first_four.jpg>
-Package pdftex.def Info: images//first_four.jpg  used on input line 203.
+Package pdftex.def Info: images//first_four.jpg  used on input line 202.
 (pdftex.def)             Requested size: 364.19536pt x 288.47939pt.
  [19
 
 ]
 File: images//first_four.jpg Graphic file (type jpg)
 <use images//first_four.jpg>
-Package pdftex.def Info: images//first_four.jpg  used on input line 203.
+Package pdftex.def Info: images//first_four.jpg  used on input line 202.
 (pdftex.def)             Requested size: 364.19536pt x 288.47939pt.
  [20
 
 ]
 File: images//first_four.jpg Graphic file (type jpg)
 <use images//first_four.jpg>
-Package pdftex.def Info: images//first_four.jpg  used on input line 203.
+Package pdftex.def Info: images//first_four.jpg  used on input line 202.
 (pdftex.def)             Requested size: 364.19536pt x 288.47939pt.
  [21
 
 ]
 File: images//first_four.jpg Graphic file (type jpg)
 <use images//first_four.jpg>
-Package pdftex.def Info: images//first_four.jpg  used on input line 203.
+Package pdftex.def Info: images//first_four.jpg  used on input line 202.
 (pdftex.def)             Requested size: 364.19536pt x 288.47939pt.
  [22
 
 ]
-<images//ibm_card_punch.jpg, id=143, 481.8pt x 369.38pt>
+<images//cycling_unit.jpg, id=143, 938.50626pt x 624.3325pt>
+File: images//cycling_unit.jpg Graphic file (type jpg)
+<use images//cycling_unit.jpg>
+Package pdftex.def Info: images//cycling_unit.jpg  used on input line 209.
+(pdftex.def)             Requested size: 364.19536pt x 242.2693pt.
+ [23
+
+ <./images//cycling_unit.jpg>]
+<images//ibm_card_punch.jpg, id=149, 481.8pt x 369.38pt>
 File: images//ibm_card_punch.jpg Graphic file (type jpg)
 <use images//ibm_card_punch.jpg>
-Package pdftex.def Info: images//ibm_card_punch.jpg  used on input line 209.
+Package pdftex.def Info: images//ibm_card_punch.jpg  used on input line 215.
 (pdftex.def)             Requested size: 364.19536pt x 279.22119pt.
- [23
+[24
 
  <./images//ibm_card_punch.jpg>]
 File: images//ibm_card_punch.jpg Graphic file (type jpg)
 <use images//ibm_card_punch.jpg>
-Package pdftex.def Info: images//ibm_card_punch.jpg  used on input line 216.
+Package pdftex.def Info: images//ibm_card_punch.jpg  used on input line 222.
 (pdftex.def)             Requested size: 364.19536pt x 279.22119pt.
- [24
+ [25
 
 ]
-<images//punch_card_system_3.jpg, id=154, 803.0pt x 396.48125pt>
+<images//punch_card_system_3.jpg, id=162, 803.0pt x 396.48125pt>
 File: images//punch_card_system_3.jpg Graphic file (type jpg)
 <use images//punch_card_system_3.jpg>
 Package pdftex.def Info: images//punch_card_system_3.jpg  used on input line 22
-1.
+7.
 (pdftex.def)             Requested size: 364.19536pt x 179.82451pt.
- [25
+ [26
 
  <./images//punch_card_system_3.jpg>]
-<images//5mbof-punched-card-computer-rooms.jpg, id=162, 738.76pt x 1047.915pt>
+<images//5mbof-punched-card-computer-rooms.jpg, id=168, 738.76pt x 1047.915pt>
 File: images//5mbof-punched-card-computer-rooms.jpg Graphic file (type jpg)
 <use images//5mbof-punched-card-computer-rooms.jpg>
 Package pdftex.def Info: images//5mbof-punched-card-computer-rooms.jpg  used on
- input line 227.
+ input line 233.
 (pdftex.def)             Requested size: 364.19536pt x 516.60086pt.
- [26
+ [27
 
  <./images//5mbof-punched-card-computer-rooms.jpg>]
 File: images//5mbof-punched-card-computer-rooms.jpg Graphic file (type jpg)
 <use images//5mbof-punched-card-computer-rooms.jpg>
 Package pdftex.def Info: images//5mbof-punched-card-computer-rooms.jpg  used on
- input line 234.
+ input line 240.
 (pdftex.def)             Requested size: 364.19536pt x 516.60086pt.
- [27
+ [28
 
 ]
-<images//room_layout.jpg, id=173, 558.9322pt x 809.55661pt>
+<images//room_layout.jpg, id=179, 558.9322pt x 809.55661pt>
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 239.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 245.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
- [28
+ [29
 
  <./images//room_layout.jpg>]
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 250.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
- [29
-
-]
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 250.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 256.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
  [30
 
 ]
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 250.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 256.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-
-[31
+ [31
 
 ]
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 250.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 256.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
  [32
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 261
- []
-
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 261.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 256.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[33
+ [33
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 261
+Overfull \vbox (31.63913pt too high) detected at line 267
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 261.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 267.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [34
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 261
+Overfull \vbox (31.63913pt too high) detected at line 267
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 261.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 267.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [35
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 261
+Overfull \vbox (31.63913pt too high) detected at line 267
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 261.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 267.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [36
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 261
+Overfull \vbox (31.63913pt too high) detected at line 267
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 261.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 267.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [37
+
+]
+Overfull \vbox (31.63913pt too high) detected at line 267
+ []
+
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 267.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+[38
 
 ]
 File: images//eniac_women_programmers_1.jpg Graphic file (type jpg)
 <use images//eniac_women_programmers_1.jpg>
 Package pdftex.def Info: images//eniac_women_programmers_1.jpg  used on input l
-ine 276.
+ine 282.
 (pdftex.def)             Requested size: 364.19536pt x 181.5964pt.
- [38
-
-]
-<images//woman_wiring.jpg, id=231, 749.80125pt x 582.175pt>
-File: images//woman_wiring.jpg Graphic file (type jpg)
-<use images//woman_wiring.jpg>
-Package pdftex.def Info: images//woman_wiring.jpg  used on input line 282.
-(pdftex.def)             Requested size: 364.19536pt x 282.78093pt.
  [39
 
+]
+<images//woman_wiring.jpg, id=237, 749.80125pt x 582.175pt>
+File: images//woman_wiring.jpg Graphic file (type jpg)
+<use images//woman_wiring.jpg>
+Package pdftex.def Info: images//woman_wiring.jpg  used on input line 288.
+(pdftex.def)             Requested size: 364.19536pt x 282.78093pt.
+ [40
+
  <./images//woman_wiring.jpg>]
-<images//eniac_women_programmers_2.jpg, id=237, 1244.65pt x 748.7975pt>
+<images//eniac_women_programmers_2.jpg, id=243, 1244.65pt x 748.7975pt>
 File: images//eniac_women_programmers_2.jpg Graphic file (type jpg)
 <use images//eniac_women_programmers_2.jpg>
 Package pdftex.def Info: images//eniac_women_programmers_2.jpg  used on input l
-ine 290.
+ine 296.
 (pdftex.def)             Requested size: 364.19536pt x 219.0995pt.
- [40
-
- <./images//eniac_women_programmers_2.jpg>]
-<images//ENIAC_Women.jpg, id=243, 565.36218pt x 156.585pt>
-File: images//ENIAC_Women.jpg Graphic file (type jpg)
-<use images//ENIAC_Women.jpg>
-Package pdftex.def Info: images//ENIAC_Women.jpg  used on input line 297.
-(pdftex.def)             Requested size: 364.19536pt x 100.87111pt.
  [41
 
+ <./images//eniac_women_programmers_2.jpg>]
+<images//ENIAC_Women.jpg, id=249, 565.36218pt x 156.585pt>
+File: images//ENIAC_Women.jpg Graphic file (type jpg)
+<use images//ENIAC_Women.jpg>
+Package pdftex.def Info: images//ENIAC_Women.jpg  used on input line 303.
+(pdftex.def)             Requested size: 364.19536pt x 100.87111pt.
+ [42
+
  <./images//ENIAC_Women.jpg>]
-<images//2.jpg, id=249, 1204.5pt x 632.3625pt>
+<images//2.jpg, id=255, 1204.5pt x 632.3625pt>
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 309.
+Package pdftex.def Info: images//2.jpg  used on input line 315.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
- [42
+ [43
 
  <./images//2.jpg>]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 309.
+Package pdftex.def Info: images//2.jpg  used on input line 315.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
- [43
+ [44
 
 ]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 309.
+Package pdftex.def Info: images//2.jpg  used on input line 315.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
 
-[44
+[45
 
 ]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 309.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
- [45
-
-]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 309.
+Package pdftex.def Info: images//2.jpg  used on input line 315.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
  [46
 
 ]
-<images//binary_ring_counter.jpg, id=276, 572.1375pt x 244.915pt>
+File: images//2.jpg Graphic file (type jpg)
+<use images//2.jpg>
+Package pdftex.def Info: images//2.jpg  used on input line 315.
+(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+ [47
+
+]
+<images//binary_ring_counter.jpg, id=282, 572.1375pt x 244.915pt>
 File: images//binary_ring_counter.jpg Graphic file (type jpg)
 <use images//binary_ring_counter.jpg>
-Package pdftex.def Info: images//binary_ring_counter.jpg  used on input line 31
-5.
+Package pdftex.def Info: images//binary_ring_counter.jpg  used on input line 32
+1.
 (pdftex.def)             Requested size: 364.19536pt x 155.90047pt.
- [47
+ [48
 
  <./images//binary_ring_counter.jpg>]
 File: images//binary_ring_counter.jpg Graphic file (type jpg)
 <use images//binary_ring_counter.jpg>
 Package pdftex.def Info: images//binary_ring_counter.jpg  used on input line 32
-2.
+8.
 (pdftex.def)             Requested size: 364.19536pt x 155.90047pt.
- [48
-
-]
-<images//circuit_diagram.jpg, id=287, 642.4pt x 380.42125pt>
-File: images//circuit_diagram.jpg Graphic file (type jpg)
-<use images//circuit_diagram.jpg>
-Package pdftex.def Info: images//circuit_diagram.jpg  used on input line 330.
-(pdftex.def)             Requested size: 364.19536pt x 215.6756pt.
  [49
 
+]
+<images//circuit_diagram.jpg, id=294, 642.4pt x 380.42125pt>
+File: images//circuit_diagram.jpg Graphic file (type jpg)
+<use images//circuit_diagram.jpg>
+Package pdftex.def Info: images//circuit_diagram.jpg  used on input line 336.
+(pdftex.def)             Requested size: 364.19536pt x 215.6756pt.
+ [50
+
  <./images//circuit_diagram.jpg>]
-<images//multiplication_circuit.jpg, id=294, 660.4675pt x 1061.9675pt>
+<images//multiplication_circuit.jpg, id=301, 660.4675pt x 1061.9675pt>
 File: images//multiplication_circuit.jpg Graphic file (type jpg)
 <use images//multiplication_circuit.jpg>
 Package pdftex.def Info: images//multiplication_circuit.jpg  used on input line
- 336.
+ 342.
 (pdftex.def)             Requested size: 364.19536pt x 585.60713pt.
- [50
+ [51
 
  <./images//multiplication_circuit.jpg>]
 File: images//multiplication_circuit.jpg Graphic file (type jpg)
 <use images//multiplication_circuit.jpg>
 Package pdftex.def Info: images//multiplication_circuit.jpg  used on input line
- 344.
+ 350.
 (pdftex.def)             Requested size: 364.19536pt x 585.60713pt.
- [51
+ [52
 
 ]
-<images//master_programmer_diagram.jpg, id=306, 563.5734pt x 865.25092pt>
+<images//master_programmer_diagram.jpg, id=312, 563.5734pt x 865.25092pt>
 File: images//master_programmer_diagram.jpg Graphic file (type jpg)
 <use images//master_programmer_diagram.jpg>
 Package pdftex.def Info: images//master_programmer_diagram.jpg  used on input l
-ine 350.
+ine 356.
 (pdftex.def)             Requested size: 364.19536pt x 559.14539pt.
- [52
+ [53
 
  <./images//master_programmer_diagram.jpg>]
 File: images//master_programmer_diagram.jpg Graphic file (type jpg)
 <use images//master_programmer_diagram.jpg>
 Package pdftex.def Info: images//master_programmer_diagram.jpg  used on input l
-ine 357.
+ine 363.
 (pdftex.def)             Requested size: 364.19536pt x 559.14539pt.
- [53
-
-]
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 367.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
  [54
 
 ]
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 367.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 374.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
  [55
 
 ]
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 367.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 374.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
  [56
 
 ]
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 367.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 374.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
  [57
 
 ]
-<images//master_programmer.jpg, id=338, 922.93431pt x 519.15054pt>
-File: images//master_programmer.jpg Graphic file (type jpg)
-<use images//master_programmer.jpg>
-Package pdftex.def Info: images//master_programmer.jpg  used on input line 373.
-
-(pdftex.def)             Requested size: 364.19536pt x 204.86021pt.
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 374.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
  [58
 
- <./images//master_programmer.jpg>]
+]
+<images//master_programmer.jpg, id=344, 922.93431pt x 519.15054pt>
 File: images//master_programmer.jpg Graphic file (type jpg)
 <use images//master_programmer.jpg>
-Package pdftex.def Info: images//master_programmer.jpg  used on input line 379.
+Package pdftex.def Info: images//master_programmer.jpg  used on input line 380.
 
 (pdftex.def)             Requested size: 364.19536pt x 204.86021pt.
  [59
 
-]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 388.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+ <./images//master_programmer.jpg>]
+File: images//master_programmer.jpg Graphic file (type jpg)
+<use images//master_programmer.jpg>
+Package pdftex.def Info: images//master_programmer.jpg  used on input line 387.
+
+(pdftex.def)             Requested size: 364.19536pt x 204.86021pt.
  [60
 
 ]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 395.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+<images//testing_multiplier.jpg, id=355, 862.5988pt x 670.98386pt>
+File: images//testing_multiplier.jpg Graphic file (type jpg)
+<use images//testing_multiplier.jpg>
+Package pdftex.def Info: images//testing_multiplier.jpg  used on input line 394
+.
+(pdftex.def)             Requested size: 364.19536pt x 283.28561pt.
  [61
 
-]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 405.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+ <./images//testing_multiplier.jpg>]
+File: images//testing_multiplier.jpg Graphic file (type jpg)
+<use images//testing_multiplier.jpg>
+Package pdftex.def Info: images//testing_multiplier.jpg  used on input line 400
+.
+(pdftex.def)             Requested size: 364.19536pt x 283.28561pt.
  [62
 
 ]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 412.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+<images//monte_carlo_flow.jpg, id=367, 752.8125pt x 696.6025pt>
+File: images//monte_carlo_flow.jpg Graphic file (type jpg)
+<use images//monte_carlo_flow.jpg>
+Package pdftex.def Info: images//monte_carlo_flow.jpg  used on input line 407.
+(pdftex.def)             Requested size: 364.19536pt x 337.01208pt.
  [63
 
-]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 412.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+ <./images//monte_carlo_flow.jpg>]
+<images//variables.jpg, id=373, 421.02248pt x 580.8121pt>
+File: images//variables.jpg Graphic file (type jpg)
+<use images//variables.jpg>
+Package pdftex.def Info: images//variables.jpg  used on input line 414.
+(pdftex.def)             Requested size: 364.19536pt x 502.43988pt.
  [64
 
-]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 412.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+ <./images//variables.jpg>]
+File: images//variables.jpg Graphic file (type jpg)
+<use images//variables.jpg>
+Package pdftex.def Info: images//variables.jpg  used on input line 420.
+(pdftex.def)             Requested size: 364.19536pt x 502.43988pt.
  [65
 
 ]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 428.
+<images//azimuth.jpg, id=384, 1204.5pt x 632.3625pt>
+File: images//azimuth.jpg Graphic file (type jpg)
+<use images//azimuth.jpg>
+Package pdftex.def Info: images//azimuth.jpg  used on input line 426.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
  [66
 
-]
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
-48.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 4
-48.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspcr.fd
-File: omspcr.fd 
-)
-LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 448.
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 448.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+ <./images//azimuth.jpg>]
+<images//equations.jpg, id=390, 423.67459pt x 240.67899pt>
+File: images//equations.jpg Graphic file (type jpg)
+<use images//equations.jpg>
+Package pdftex.def Info: images//equations.jpg  used on input line 432.
+(pdftex.def)             Requested size: 364.19536pt x 206.89542pt.
  [67
 
-]
-<images//placeholder.jpg, id=393, 351.3125pt x 193.72375pt>
-File: images//placeholder.jpg Graphic file (type jpg)
-<use images//placeholder.jpg>
-Package pdftex.def Info: images//placeholder.jpg  used on input line 460.
-(pdftex.def)             Requested size: 122.91406pt x 67.77771pt.
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 460.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+ <./images//equations.jpg>]
+File: images//equations.jpg Graphic file (type jpg)
+<use images//equations.jpg>
+Package pdftex.def Info: images//equations.jpg  used on input line 438.
+(pdftex.def)             Requested size: 364.19536pt x 206.89542pt.
  [68
 
- <./images//placeholder.jpg>]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 467.
-(pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
+]
+<images//piano_pedaling_sheet.jpg, id=402, 614.17415pt x 269.01843pt>
+File: images//piano_pedaling_sheet.jpg Graphic file (type jpg)
+<use images//piano_pedaling_sheet.jpg>
+Package pdftex.def Info: images//piano_pedaling_sheet.jpg  used on input line 4
+45.
+(pdftex.def)             Requested size: 364.19536pt x 159.52405pt.
  [69
 
-]
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 477.
-(pdftex.def)             Requested size: 57.82085pt x 30.35594pt.
-File: images//2.jpg Graphic file (type jpg)
-<use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 477.
-(pdftex.def)             Requested size: 144.53375pt x 75.88022pt.
-File: images//blank.jpg Graphic file (type jpg)
-<use images//blank.jpg>
-Package pdftex.def Info: images//blank.jpg  used on input line 477.
-(pdftex.def)             Requested size: 364.19536pt x 204.87064pt.
+ <./images//piano_pedaling_sheet.jpg>]
+File: images//piano_pedaling_sheet.jpg Graphic file (type jpg)
+<use images//piano_pedaling_sheet.jpg>
+Package pdftex.def Info: images//piano_pedaling_sheet.jpg  used on input line 4
+51.
+(pdftex.def)             Requested size: 364.19536pt x 159.52405pt.
  [70
+
+]
+<images//pedaling_sheet.jpg, id=413, 1600.98125pt x 524.96124pt>
+File: images//pedaling_sheet.jpg Graphic file (type jpg)
+<use images//pedaling_sheet.jpg>
+Package pdftex.def Info: images//pedaling_sheet.jpg  used on input line 459.
+(pdftex.def)             Requested size: 364.19536pt x 119.41685pt.
+ [71
+
+ <./images//pedaling_sheet.jpg>]
+File: images//pedaling_sheet.jpg Graphic file (type jpg)
+<use images//pedaling_sheet.jpg>
+Package pdftex.def Info: images//pedaling_sheet.jpg  used on input line 465.
+(pdftex.def)             Requested size: 364.19536pt x 119.41685pt.
+ [72
+
+]
+<images//weather_forcasting.jpg, id=424, 246.6816pt x 185.0112pt>
+File: images//weather_forcasting.jpg Graphic file (type jpg)
+<use images//weather_forcasting.jpg>
+Package pdftex.def Info: images//weather_forcasting.jpg  used on input line 471
+.
+(pdftex.def)             Requested size: 364.19536pt x 273.17145pt.
+ [73
+
+ <./images//weather_forcasting.jpg>]
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 483.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+ [74
+
+]
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 483.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+ [75
+
+]
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 483.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+ [76
+
+]
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 483.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+ [77
 
 ]
 \tf@nav=\write6
@@ -1609,22 +1644,20 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25329 strings out of 480247
- 504523 string characters out of 5896151
+ 25316 strings out of 480247
+ 504792 string characters out of 5896151
  733235 words of memory out of 5000000
- 42581 multiletter control sequences out of 15000+600000
- 502014 words of font info for 107 fonts, out of 8000000 for 9000
+ 42558 multiletter control sequences out of 15000+600000
+ 497627 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  142i,11n,136p,393b,642s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/he
-lvetic/uhvr8a.pfb>
-Output written on presentation.pdf (70 pages, 5673052 bytes).
+f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on presentation.pdf (77 pages, 7069547 bytes).
 PDF statistics:
- 462 PDF objects out of 1000 (max. 8388607)
- 344 compressed objects within 4 object streams
- 141 named destinations out of 1000 (max. 500000)
- 183 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 500 PDF objects out of 1000 (max. 8388607)
+ 371 compressed objects within 4 object streams
+ 155 named destinations out of 1000 (max. 500000)
+ 223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
