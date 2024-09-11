@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.13)  10 SEP 2024 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.13)  10 SEP 2024 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1184,500 +1184,521 @@ Package pdftex.def Info: images//first_four.jpg  used on input line 197.
  [21
 
 ]
-<images//cycling_unit.jpg, id=138, 938.50626pt x 624.3325pt>
-File: images//cycling_unit.jpg Graphic file (type jpg)
-<use images//cycling_unit.jpg>
-Package pdftex.def Info: images//cycling_unit.jpg  used on input line 204.
-(pdftex.def)             Requested size: 364.19536pt x 242.2693pt.
+File: images//first_four.jpg Graphic file (type jpg)
+<use images//first_four.jpg>
+Package pdftex.def Info: images//first_four.jpg  used on input line 208.
+(pdftex.def)             Requested size: 364.19536pt x 288.47939pt.
  [22
 
+]
+File: images//first_four.jpg Graphic file (type jpg)
+<use images//first_four.jpg>
+Package pdftex.def Info: images//first_four.jpg  used on input line 208.
+(pdftex.def)             Requested size: 364.19536pt x 288.47939pt.
+ [23
+
+]
+File: images//first_four.jpg Graphic file (type jpg)
+<use images//first_four.jpg>
+Package pdftex.def Info: images//first_four.jpg  used on input line 208.
+(pdftex.def)             Requested size: 364.19536pt x 288.47939pt.
+ [24
+
+]
+<images//cycling_unit.jpg, id=153, 938.50626pt x 624.3325pt>
+File: images//cycling_unit.jpg Graphic file (type jpg)
+<use images//cycling_unit.jpg>
+Package pdftex.def Info: images//cycling_unit.jpg  used on input line 214.
+(pdftex.def)             Requested size: 364.19536pt x 242.2693pt.
+ [25
+
  <./images//cycling_unit.jpg>]
-<images//ibm_card_punch.jpg, id=144, 481.8pt x 369.38pt>
+<images//ibm_card_punch.jpg, id=161, 481.8pt x 369.38pt>
 File: images//ibm_card_punch.jpg Graphic file (type jpg)
 <use images//ibm_card_punch.jpg>
-Package pdftex.def Info: images//ibm_card_punch.jpg  used on input line 210.
+Package pdftex.def Info: images//ibm_card_punch.jpg  used on input line 220.
 (pdftex.def)             Requested size: 364.19536pt x 279.22119pt.
- [23
+ [26
 
  <./images//ibm_card_punch.jpg>]
 File: images//ibm_card_punch.jpg Graphic file (type jpg)
 <use images//ibm_card_punch.jpg>
-Package pdftex.def Info: images//ibm_card_punch.jpg  used on input line 217.
+Package pdftex.def Info: images//ibm_card_punch.jpg  used on input line 227.
 (pdftex.def)             Requested size: 364.19536pt x 279.22119pt.
-[24
+ [27
 
 ]
-<images//punch_card_system_3.jpg, id=155, 803.0pt x 396.48125pt>
+<images//punch_card_system_3.jpg, id=172, 803.0pt x 396.48125pt>
 File: images//punch_card_system_3.jpg Graphic file (type jpg)
 <use images//punch_card_system_3.jpg>
-Package pdftex.def Info: images//punch_card_system_3.jpg  used on input line 22
+Package pdftex.def Info: images//punch_card_system_3.jpg  used on input line 23
 2.
 (pdftex.def)             Requested size: 364.19536pt x 179.82451pt.
- [25
+ [28
 
  <./images//punch_card_system_3.jpg>]
-<images//5mbof-punched-card-computer-rooms.jpg, id=163, 738.76pt x 1047.915pt>
+<images//5mbof-punched-card-computer-rooms.jpg, id=178, 738.76pt x 1047.915pt>
 File: images//5mbof-punched-card-computer-rooms.jpg Graphic file (type jpg)
 <use images//5mbof-punched-card-computer-rooms.jpg>
 Package pdftex.def Info: images//5mbof-punched-card-computer-rooms.jpg  used on
- input line 228.
+ input line 238.
 (pdftex.def)             Requested size: 364.19536pt x 516.60086pt.
- [26
+ [29
 
  <./images//5mbof-punched-card-computer-rooms.jpg>]
 File: images//5mbof-punched-card-computer-rooms.jpg Graphic file (type jpg)
 <use images//5mbof-punched-card-computer-rooms.jpg>
 Package pdftex.def Info: images//5mbof-punched-card-computer-rooms.jpg  used on
- input line 235.
+ input line 245.
 (pdftex.def)             Requested size: 364.19536pt x 516.60086pt.
- [27
+ [30
 
 ]
-<images//room_layout.jpg, id=174, 558.9322pt x 809.55661pt>
+<images//room_layout.jpg, id=189, 558.9322pt x 809.55661pt>
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 240.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 250.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
- [28
+ [31
 
  <./images//room_layout.jpg>]
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 251.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
- [29
-
-]
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 251.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
- [30
-
-]
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 251.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
- [31
-
-]
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 251.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 261.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 
 [32
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 262
- []
-
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 262.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 261.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[33
+ [33
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 262
- []
-
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 262.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 261.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[34
+ [34
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 262
- []
-
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 262.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 261.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[35
+ [35
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 262
+Overfull \vbox (31.63913pt too high) detected at line 272
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 262.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 272.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [36
 
 ]
-Overfull \vbox (31.63913pt too high) detected at line 262
+Overfull \vbox (31.63913pt too high) detected at line 272
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 262.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 272.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [37
+
+]
+Overfull \vbox (31.63913pt too high) detected at line 272
+ []
+
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 272.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+[38
+
+]
+Overfull \vbox (31.63913pt too high) detected at line 272
+ []
+
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 272.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+[39
+
+]
+Overfull \vbox (31.63913pt too high) detected at line 272
+ []
+
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 272.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+[40
 
 ]
 File: images//eniac_women_programmers_1.jpg Graphic file (type jpg)
 <use images//eniac_women_programmers_1.jpg>
 Package pdftex.def Info: images//eniac_women_programmers_1.jpg  used on input l
-ine 277.
+ine 287.
 (pdftex.def)             Requested size: 364.19536pt x 181.5964pt.
- [38
+ [41
 
 ]
-<images//woman_wiring.jpg, id=232, 749.80125pt x 582.175pt>
+<images//woman_wiring.jpg, id=247, 749.80125pt x 582.175pt>
 File: images//woman_wiring.jpg Graphic file (type jpg)
 <use images//woman_wiring.jpg>
-Package pdftex.def Info: images//woman_wiring.jpg  used on input line 284.
+Package pdftex.def Info: images//woman_wiring.jpg  used on input line 294.
 (pdftex.def)             Requested size: 364.19536pt x 282.78093pt.
- [39
+ [42
 
  <./images//woman_wiring.jpg>]
 File: images//woman_wiring.jpg Graphic file (type jpg)
 <use images//woman_wiring.jpg>
-Package pdftex.def Info: images//woman_wiring.jpg  used on input line 290.
+Package pdftex.def Info: images//woman_wiring.jpg  used on input line 300.
 (pdftex.def)             Requested size: 364.19536pt x 282.78093pt.
- [40
+ [43
 
 ]
-<images//eniac_women_programmers_2.jpg, id=243, 1244.65pt x 748.7975pt>
+<images//eniac_women_programmers_2.jpg, id=259, 1244.65pt x 748.7975pt>
 File: images//eniac_women_programmers_2.jpg Graphic file (type jpg)
 <use images//eniac_women_programmers_2.jpg>
 Package pdftex.def Info: images//eniac_women_programmers_2.jpg  used on input l
-ine 298.
+ine 308.
 (pdftex.def)             Requested size: 364.19536pt x 219.0995pt.
- [41
+ [44
 
  <./images//eniac_women_programmers_2.jpg>]
-<images//ENIAC_Women.jpg, id=249, 565.36218pt x 156.585pt>
+<images//ENIAC_Women.jpg, id=265, 565.36218pt x 156.585pt>
 File: images//ENIAC_Women.jpg Graphic file (type jpg)
 <use images//ENIAC_Women.jpg>
-Package pdftex.def Info: images//ENIAC_Women.jpg  used on input line 305.
+Package pdftex.def Info: images//ENIAC_Women.jpg  used on input line 315.
 (pdftex.def)             Requested size: 364.19536pt x 100.87111pt.
- [42
+ [45
 
  <./images//ENIAC_Women.jpg>]
-<images//2.jpg, id=255, 1204.5pt x 632.3625pt>
+<images//2.jpg, id=271, 1204.5pt x 632.3625pt>
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 317.
+Package pdftex.def Info: images//2.jpg  used on input line 327.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
- [43
+ [46
 
  <./images//2.jpg>]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 317.
+Package pdftex.def Info: images//2.jpg  used on input line 327.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
 
-[44
+[47
 
 ]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 317.
+Package pdftex.def Info: images//2.jpg  used on input line 327.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
- [45
+ [48
 
 ]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 317.
+Package pdftex.def Info: images//2.jpg  used on input line 327.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
- [46
+ [49
 
 ]
 File: images//2.jpg Graphic file (type jpg)
 <use images//2.jpg>
-Package pdftex.def Info: images//2.jpg  used on input line 317.
+Package pdftex.def Info: images//2.jpg  used on input line 327.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
- [47
+ [50
 
 ]
-<images//binary_ring_counter.jpg, id=282, 572.1375pt x 244.915pt>
+<images//binary_ring_counter.jpg, id=299, 572.1375pt x 244.915pt>
 File: images//binary_ring_counter.jpg Graphic file (type jpg)
 <use images//binary_ring_counter.jpg>
-Package pdftex.def Info: images//binary_ring_counter.jpg  used on input line 32
+Package pdftex.def Info: images//binary_ring_counter.jpg  used on input line 33
 5.
 (pdftex.def)             Requested size: 364.19536pt x 155.90047pt.
- [48
+ [51
 
  <./images//binary_ring_counter.jpg>]
 File: images//binary_ring_counter.jpg Graphic file (type jpg)
 <use images//binary_ring_counter.jpg>
-Package pdftex.def Info: images//binary_ring_counter.jpg  used on input line 33
+Package pdftex.def Info: images//binary_ring_counter.jpg  used on input line 34
 1.
 (pdftex.def)             Requested size: 364.19536pt x 155.90047pt.
- [49
+ [52
 
 ]
-<images//circuit_diagram.jpg, id=294, 642.4pt x 380.42125pt>
+<images//circuit_diagram.jpg, id=310, 642.4pt x 380.42125pt>
 File: images//circuit_diagram.jpg Graphic file (type jpg)
 <use images//circuit_diagram.jpg>
-Package pdftex.def Info: images//circuit_diagram.jpg  used on input line 337.
+Package pdftex.def Info: images//circuit_diagram.jpg  used on input line 347.
 (pdftex.def)             Requested size: 364.19536pt x 215.6756pt.
- [50
+ [53
 
  <./images//circuit_diagram.jpg>]
-<images//multiplication_circuit.jpg, id=301, 660.4675pt x 1061.9675pt>
+<images//multiplication_circuit.jpg, id=316, 660.4675pt x 1061.9675pt>
 File: images//multiplication_circuit.jpg Graphic file (type jpg)
 <use images//multiplication_circuit.jpg>
 Package pdftex.def Info: images//multiplication_circuit.jpg  used on input line
- 343.
+ 353.
 (pdftex.def)             Requested size: 364.19536pt x 585.60713pt.
- [51
+ [54
 
  <./images//multiplication_circuit.jpg>]
-<images//master_programmer_diagram.jpg, id=307, 563.5734pt x 865.25092pt>
+<images//master_programmer_diagram.jpg, id=322, 563.5734pt x 865.25092pt>
 File: images//master_programmer_diagram.jpg Graphic file (type jpg)
 <use images//master_programmer_diagram.jpg>
 Package pdftex.def Info: images//master_programmer_diagram.jpg  used on input l
-ine 349.
+ine 359.
 (pdftex.def)             Requested size: 364.19536pt x 559.14539pt.
- [52
+ [55
 
  <./images//master_programmer_diagram.jpg>]
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 360.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
- [53
-
-]
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 360.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
- [54
-
-]
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 360.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
- [55
-
-]
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 360.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 370.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
  [56
 
 ]
-<images//master_programmer.jpg, id=334, 922.93431pt x 519.15054pt>
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 370.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+ [57
+
+]
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 370.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+ [58
+
+]
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 370.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+ [59
+
+]
+<images//master_programmer.jpg, id=349, 922.93431pt x 519.15054pt>
 File: images//master_programmer.jpg Graphic file (type jpg)
 <use images//master_programmer.jpg>
-Package pdftex.def Info: images//master_programmer.jpg  used on input line 367.
+Package pdftex.def Info: images//master_programmer.jpg  used on input line 377.
 
 (pdftex.def)             Requested size: 364.19536pt x 204.86021pt.
- [57
+ [60
 
  <./images//master_programmer.jpg>]
 File: images//master_programmer.jpg Graphic file (type jpg)
 <use images//master_programmer.jpg>
-Package pdftex.def Info: images//master_programmer.jpg  used on input line 373.
+Package pdftex.def Info: images//master_programmer.jpg  used on input line 383.
 
 (pdftex.def)             Requested size: 364.19536pt x 204.86021pt.
- [58
+ [61
 
 ]
-<images//testing_multiplier.jpg, id=345, 862.5988pt x 670.98386pt>
+<images//testing_multiplier.jpg, id=361, 862.5988pt x 670.98386pt>
 File: images//testing_multiplier.jpg Graphic file (type jpg)
 <use images//testing_multiplier.jpg>
-Package pdftex.def Info: images//testing_multiplier.jpg  used on input line 380
+Package pdftex.def Info: images//testing_multiplier.jpg  used on input line 390
 .
 (pdftex.def)             Requested size: 364.19536pt x 283.28561pt.
- [59
+ [62
 
  <./images//testing_multiplier.jpg>]
 File: images//testing_multiplier.jpg Graphic file (type jpg)
 <use images//testing_multiplier.jpg>
-Package pdftex.def Info: images//testing_multiplier.jpg  used on input line 386
+Package pdftex.def Info: images//testing_multiplier.jpg  used on input line 396
 .
 (pdftex.def)             Requested size: 364.19536pt x 283.28561pt.
- [60
+ [63
 
 ]
-<images//monte_carlo_flow.jpg, id=356, 752.8125pt x 696.6025pt>
+<images//monte_carlo_flow.jpg, id=372, 752.8125pt x 696.6025pt>
 File: images//monte_carlo_flow.jpg Graphic file (type jpg)
 <use images//monte_carlo_flow.jpg>
-Package pdftex.def Info: images//monte_carlo_flow.jpg  used on input line 393.
+Package pdftex.def Info: images//monte_carlo_flow.jpg  used on input line 403.
 (pdftex.def)             Requested size: 364.19536pt x 337.01208pt.
- [61
+ [64
 
  <./images//monte_carlo_flow.jpg>]
-<images//variables.jpg, id=363, 421.02248pt x 580.8121pt>
+<images//variables.jpg, id=378, 421.02248pt x 580.8121pt>
 File: images//variables.jpg Graphic file (type jpg)
 <use images//variables.jpg>
-Package pdftex.def Info: images//variables.jpg  used on input line 400.
+Package pdftex.def Info: images//variables.jpg  used on input line 410.
 (pdftex.def)             Requested size: 364.19536pt x 502.43988pt.
- [62
+ [65
 
  <./images//variables.jpg>]
 File: images//variables.jpg Graphic file (type jpg)
 <use images//variables.jpg>
-Package pdftex.def Info: images//variables.jpg  used on input line 406.
+Package pdftex.def Info: images//variables.jpg  used on input line 416.
 (pdftex.def)             Requested size: 364.19536pt x 502.43988pt.
- [63
+ [66
 
 ]
-<images//azimuth.jpg, id=374, 1204.5pt x 632.3625pt>
+<images//azimuth.jpg, id=389, 1204.5pt x 632.3625pt>
 File: images//azimuth.jpg Graphic file (type jpg)
 <use images//azimuth.jpg>
-Package pdftex.def Info: images//azimuth.jpg  used on input line 412.
+Package pdftex.def Info: images//azimuth.jpg  used on input line 422.
 (pdftex.def)             Requested size: 364.19536pt x 191.20581pt.
- [64
+ [67
 
  <./images//azimuth.jpg>]
-<images//equations.jpg, id=380, 423.67459pt x 240.67899pt>
+<images//equations.jpg, id=396, 423.67459pt x 240.67899pt>
 File: images//equations.jpg Graphic file (type jpg)
 <use images//equations.jpg>
-Package pdftex.def Info: images//equations.jpg  used on input line 418.
+Package pdftex.def Info: images//equations.jpg  used on input line 428.
 (pdftex.def)             Requested size: 364.19536pt x 206.89542pt.
- [65
+ [68
 
  <./images//equations.jpg>]
 File: images//equations.jpg Graphic file (type jpg)
 <use images//equations.jpg>
-Package pdftex.def Info: images//equations.jpg  used on input line 424.
+Package pdftex.def Info: images//equations.jpg  used on input line 434.
 (pdftex.def)             Requested size: 364.19536pt x 206.89542pt.
- [66
+ [69
 
 ]
-<images//piano_pedaling_sheet.jpg, id=391, 614.17415pt x 269.01843pt>
+<images//piano_pedaling_sheet.jpg, id=407, 614.17415pt x 269.01843pt>
 File: images//piano_pedaling_sheet.jpg Graphic file (type jpg)
 <use images//piano_pedaling_sheet.jpg>
 Package pdftex.def Info: images//piano_pedaling_sheet.jpg  used on input line 4
-31.
+41.
 (pdftex.def)             Requested size: 364.19536pt x 159.52405pt.
- [67
+ [70
 
  <./images//piano_pedaling_sheet.jpg>]
 File: images//piano_pedaling_sheet.jpg Graphic file (type jpg)
 <use images//piano_pedaling_sheet.jpg>
 Package pdftex.def Info: images//piano_pedaling_sheet.jpg  used on input line 4
-37.
+47.
 (pdftex.def)             Requested size: 364.19536pt x 159.52405pt.
- [68
+ [71
 
 ]
-<images//pedaling_sheet.jpg, id=403, 1600.98125pt x 524.96124pt>
+<images//pedaling_sheet.jpg, id=418, 1600.98125pt x 524.96124pt>
 File: images//pedaling_sheet.jpg Graphic file (type jpg)
 <use images//pedaling_sheet.jpg>
-Package pdftex.def Info: images//pedaling_sheet.jpg  used on input line 445.
+Package pdftex.def Info: images//pedaling_sheet.jpg  used on input line 455.
 (pdftex.def)             Requested size: 364.19536pt x 119.41685pt.
- [69
+ [72
 
  <./images//pedaling_sheet.jpg>]
 File: images//pedaling_sheet.jpg Graphic file (type jpg)
 <use images//pedaling_sheet.jpg>
-Package pdftex.def Info: images//pedaling_sheet.jpg  used on input line 451.
+Package pdftex.def Info: images//pedaling_sheet.jpg  used on input line 461.
 (pdftex.def)             Requested size: 364.19536pt x 119.41685pt.
- [70
+ [73
 
 ]
-Overfull \vbox (4.35226pt too high) detected at line 464
+Overfull \vbox (4.35226pt too high) detected at line 474
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 464.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[71
-
-]
-Overfull \vbox (4.35226pt too high) detected at line 464
- []
-
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 464.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[72
-
-]
-Overfull \vbox (4.35226pt too high) detected at line 464
- []
-
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 464.
-(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
-[73
-
-]
-Overfull \vbox (4.35226pt too high) detected at line 464
- []
-
-File: images//room_layout.jpg Graphic file (type jpg)
-<use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 464.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [74
 
 ]
-Overfull \vbox (4.35226pt too high) detected at line 464
+Overfull \vbox (4.35226pt too high) detected at line 474
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 464.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [75
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 477
+Overfull \vbox (4.35226pt too high) detected at line 474
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 477.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [76
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 477
+Overfull \vbox (4.35226pt too high) detected at line 474
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 477.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [77
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 477
+Overfull \vbox (4.35226pt too high) detected at line 474
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 477.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 474.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [78
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 477
+Overfull \vbox (34.6621pt too high) detected at line 487
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 477.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [79
 
 ]
-Overfull \vbox (34.6621pt too high) detected at line 477
+Overfull \vbox (34.6621pt too high) detected at line 487
  []
 
 File: images//room_layout.jpg Graphic file (type jpg)
 <use images//room_layout.jpg>
-Package pdftex.def Info: images//room_layout.jpg  used on input line 477.
+Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
 (pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
 [80
+
+]
+Overfull \vbox (34.6621pt too high) detected at line 487
+ []
+
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+[81
+
+]
+Overfull \vbox (34.6621pt too high) detected at line 487
+ []
+
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+[82
+
+]
+Overfull \vbox (34.6621pt too high) detected at line 487
+ []
+
+File: images//room_layout.jpg Graphic file (type jpg)
+<use images//room_layout.jpg>
+Package pdftex.def Info: images//room_layout.jpg  used on input line 487.
+(pdftex.def)             Requested size: 364.19536pt x 527.51495pt.
+[83
 
 ]
 \tf@nav=\write6
@@ -1694,20 +1715,20 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25322 strings out of 480247
- 504654 string characters out of 5896151
+ 25326 strings out of 480247
+ 504693 string characters out of 5896151
  733235 words of memory out of 5000000
- 42559 multiletter control sequences out of 15000+600000
+ 42557 multiletter control sequences out of 15000+600000
  497627 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  142i,11n,136p,393b,642s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on presentation.pdf (80 pages, 6971592 bytes).
+Output written on presentation.pdf (83 pages, 6973367 bytes).
 PDF statistics:
- 516 PDF objects out of 1000 (max. 8388607)
- 385 compressed objects within 4 object streams
- 161 named destinations out of 1000 (max. 500000)
+ 532 PDF objects out of 1000 (max. 8388607)
+ 398 compressed objects within 4 object streams
+ 167 named destinations out of 1000 (max. 500000)
  218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
