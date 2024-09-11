@@ -80,7 +80,7 @@ A Symbolic Analysis of Relay and Switching Circuits
 * Card punch
 
 ## Characteristics
-No language.  Programmed with wires and switches
+Programmed with wires and switches
 Accumulators are the only memory
 No separation between storage and computation
 Parallel
@@ -109,6 +109,15 @@ avoiding any attempt at improving performance by overlapping operations
 synchronous with a master system clock
 
 ENIAC combined full, Turing-complete programmability with electronic speed
+
+
+## Successful Programming
+* fundamental understanding of the hardware
+* Pair programming
+* Teamwork
+* Inventing pedaling sheets for understanding program flow in an asyncronous system
+* Testing (both unit and system tests) (verify correct operation of the machine and their program)
+
 
 
 
